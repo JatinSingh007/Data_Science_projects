@@ -1,0 +1,2 @@
+# Data_Science_projects
+I am a dedicated Master's student in Data Science and Business Analytics at ESSEC and Central Supélec. As an enthusiastic data science practitioner, I've embarked on a journey to explore, analyze, and solve complex problems using data-driven approaches. This repository is a compilation of projects that showcase my expertise in various areas of data science, ranging from deep learning and natural language processing to data analysis and end-to-end project deployment.
