@@ -1,3 +1,22 @@
+# Sales Forecasting and Analysis
+![Screenshot 2023-08-28 at 6 13 43 PM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/af8e0700-40f6-4769-8e8d-2d5aa0dfad14)
+
+## Introduction:
+In this project, we will dive into the realm of sales data analysis and forecasting. The dataset at hand consists of records pertaining to sales transactions, encompassing a wide range of information such as date, country, store, product, and the number of units sold. Our goal is to extract valuable insights from this dataset through exploratory analysis, visualization, and the application of machine learning techniques to build a sales forecasting model.
+
+## Dataset Overview:
+
+The dataset contains essential information that will be the foundation of our analysis:
+
+* id: A unique identifier for each record.
+* date: The date of the sales transaction.
+* country: The country where the sale took place.
+* store: The store where the sale occurred.
+* product: The product that was sold.
+* num_sold: The number of units sold in each transaction.
+
+
+
 ## Importing Libraries 
 
 You start by importing essential libraries like NumPy, Pandas, TensorFlow, and scikit-learn (sklearn). These libraries provide tools for data manipulation, machine learning, and data visualization. Additionally, the XGBRegressor class from the XGBoost library is imported for gradient boosting-based regression.
