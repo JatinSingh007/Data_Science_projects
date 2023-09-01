@@ -35,7 +35,7 @@ This section likely displays a map or bar chart showing the number of ICMR-appro
 This section might include a bar chart comparing the number of tests conducted across different states. It provides an understanding of testing efforts in different regions.
 
 
-## Key Findings:
+## Key Findings
 
 ## Gender Disparity: 
 
