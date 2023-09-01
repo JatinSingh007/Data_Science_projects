@@ -1,3 +1,6 @@
+![Screenshot 2023-09-01 at 7 10 26 AM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/187229e9-6a45-46ab-932f-0906ad1b53db)
+
+
 # COVID-19 India analysis
 
 A comprehensive COVID-19 India analysis dashboard with a wide range of visualizations and insights. Each section provides valuable information about different aspects of the COVID-19 situation in India.
