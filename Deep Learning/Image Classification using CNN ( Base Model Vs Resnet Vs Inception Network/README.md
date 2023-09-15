@@ -72,6 +72,9 @@ Two pre-trained models, ResNet50V2 and InceptionV3, are fine-tuned for image cla
 
 The performance of the base CNN model and the two transfer learning models (ResNet50V2 and InceptionV3) is compared regarding loss and accuracy.
 
+![Screenshot 2023-09-16 at 2 16 23 AM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/f2d9fbe6-ad9d-427d-ad1c-059362813569)
+
+
 ## Conclusion
 
 In conclusion, we observe the critical role of transfer learning in image classification. It highlights that fetching pre-trained weights not only expedites model training but also significantly enhances accuracy. This approach demonstrates the power of leveraging existing knowledge to tackle complex tasks effectively.
