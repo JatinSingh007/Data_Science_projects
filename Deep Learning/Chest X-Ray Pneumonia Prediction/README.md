@@ -33,10 +33,17 @@ To train the model, we used the prepared datasets with a batch size of 32 and tr
 
 ## Training
 
+![Screenshot 2023-09-20 at 4 22 13 AM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/afcdd827-752b-49e6-9348-079b3ccf5c3c)
+
+![Screenshot 2023-09-20 at 4 31 04 AM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/9fed647f-5727-4d3f-8886-c97d13526eca)
+
 
 
 ## Results
 
+![Screenshot 2023-09-20 at 4 46 51 AM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/5ef8664c-5585-4b78-965a-e20420d115d4)
+
+In medical predictions, especially in diagnostic tests and disease detection, recall is a critical and often the most important metric. Our model has an excellent recall, hence it has performed well in that regard. Some improvements could be made to other metrics by increasing the number of epochs or adding more layers with dropout running on GPU.
 
 ## Tools Used
 ![Screenshot 2023-09-19 at 11 46 08 PM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/e822fc84-48d9-4329-901f-81d7a9035692)![Screenshot 2023-09-19 at 11 46 21 PM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/91ed77a3-e2d5-490d-a26e-0c54ee55a6ce)![Screenshot 2023-09-19 at 11 45 57 PM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/419239d6-ed0f-4594-be79-c0de6fc90618)
