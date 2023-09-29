@@ -1,6 +1,8 @@
 # Stock Movement Prediction Using Technical Indicators and LSTM
+![Screenshot 2023-09-29 at 9 56 54 PM](https://github.com/JatinSingh007/Data_Science_projects/assets/54170834/511fd727-ec31-402f-b77d-7180e0f5a783)
 
- This repository showcases a comprehensive stock price prediction system using historical data, technical indicators, and LSTM (Long Short-Term Memory) neural networks. The project incorporates various components such as data fetching, data analysis, technical indicator integration, feature engineering, model construction, training, and visualization. The primary goal is to predict stock movements for Alphabet Inc. (GOOGL) based on historical price data and the Relative Strength Index (RSI) technical indicator.
+
+This repository showcases a comprehensive stock price prediction system using historical data, technical indicators, and LSTM (Long Short-Term Memory) neural networks. The project incorporates various components such as data fetching, data analysis, technical indicator integration, feature engineering, model construction, training, and visualization. The primary goal is to predict stock movements for Alphabet Inc. (GOOGL) based on historical price data and the Relative Strength Index (RSI) technical indicator.
 
 ## Notebook Overview
 Notebook Name: Stock Movement Prediction Using Technical Indicator RSI.ipynb
